@@ -4,5 +4,5 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-𝐋ᴀᴋᴀ-𝐌ᴅ=FkRVwACY#pA84nncG87paUjwNupxbjSkLMyAXy-my2HegY_P1VZg
+𝐋ᴀᴋᴀ-𝐌ᴅ=ctolnCgT#mQvCmtz9A0_rtb86PLHmUprzmigPVgmTq6mPh7484so
 };
